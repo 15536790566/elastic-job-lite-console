@@ -1,5 +1,0 @@
-[WARN ] 2017-07-15 14:38:37,921 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
-[WARN ] 2017-07-15 14:38:37,922 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
-[WARN ] 2017-07-15 14:59:58,035 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
-[WARN ] 2017-07-15 14:59:58,036 --main-- [com.dangdang.ddframe.job.security.WwwAuthFilter] Cannot found auth config file, use default auth config. 
-[WARN ] 2017-07-15 15:01:25,679 --qtp422250493-20-- [org.apache.curator.utils.ZKPaths] The version of ZooKeeper being used doesn't support Container nodes. CreateMode.PERSISTENT will be used instead. 
